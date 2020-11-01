@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: some fact isn't fun
 
 ![Ahwan's github stats](https://github-readme-stats.vercel.app/api?username=ahwanfebriantoro&show_icons=true&theme=algolia)
-<br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahwanfebriantoro)](https://github.com/anuraghazra/github-readme-stats)
 <hr />
 
 ## Recent Technology
+<br />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahwanfebriantoro)](https://github.com/anuraghazra/github-readme-stats)
 ### Frontend
 <div style="display:flex;flex-wrap:wrap">
 <img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="React" height="50" />  
