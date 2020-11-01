@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 <hr />
 
-## Technology Used Recently
+## Recent Technology
 ### Frontend
 <div style="display:flex;flex-wrap:wrap">
 <img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="React" height="50" />  
@@ -53,3 +53,7 @@ Here are some ideas to get you started:
 <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" height="50" />  
 <img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="React" height="50" />  
 </div>
+
+<hr />
+
+## Let's Connect
