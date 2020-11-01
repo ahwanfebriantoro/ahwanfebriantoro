@@ -35,6 +35,7 @@ Here are some ideas to get you started:
 <img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="JavaScript" height="50" />  
 <img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="TypeScript" height="50" />  
 <img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="Sass" height="50" />  
+<img style="margin: 10px" src="https://img.alicdn.com/tfs/TB1jaiKI9zqK1RjSZPxXXc4tVXa-65-43.svg" alt="BizCharts" height="50" />
 </div>
 
 ### Backend
