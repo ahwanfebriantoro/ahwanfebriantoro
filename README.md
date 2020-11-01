@@ -1,6 +1,6 @@
 ## Hi there 👋
 My name is Ahwan F.
-I used to love walking
+I love walking down on Earth
 <!--
 **ahwanfebriantoro/ahwanfebriantoro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
