@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <hr />
 
 ## Recent Technology
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahwanfebriantoro)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahwanfebriantoro&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 <br />
 ### Frontend
 <div style="display:flex;flex-wrap:wrap">
