@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: some fact isn't fun
 
 ![Ahwan's github stats](https://github-readme-stats.vercel.app/api?username=ahwanfebriantoro&show_icons=true&theme=algolia)
+<br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahwanfebriantoro)](https://github.com/anuraghazra/github-readme-stats)
 <hr />
 
