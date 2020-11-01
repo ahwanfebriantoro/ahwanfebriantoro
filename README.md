@@ -25,8 +25,8 @@ Here are some ideas to get you started:
 <hr />
 
 ## Recent Technology
-<br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahwanfebriantoro)](https://github.com/anuraghazra/github-readme-stats)
+<br />
 ### Frontend
 <div style="display:flex;flex-wrap:wrap">
 <img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="React" height="50" />  
