@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 <img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="Sass" height="50" />  
 </div>
 
-## Backend
+### Backend
 <div style="display:flex;flex-wrap:wrap">
 <img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="JavaScript" height="50" />  
 <img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="TypeScript" height="50" />  
@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" height="50" />  
 </div>
 
-## Mobile
+### Mobile
 <div style="display:flex;flex-wrap:wrap">
 <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" height="50" />  
 <img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="React" height="50" />  
