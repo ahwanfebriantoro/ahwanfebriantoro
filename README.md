@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ahwanfebrian.dev@gmail.com
 - ⚡ Fun fact: some fact isn't fun
 
-![Ahwan's github stats](https://github-readme-stats-eight-alpha.vercel.app/api?username=ahwanfebriantoro&show_icons=true&theme=algolia)
+![Ahwan's github stats](https://github-readme-stats.vercel.app/api?username=ahwanfebriantoro&show_icons=true&theme=algolia)
