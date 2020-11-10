@@ -38,6 +38,7 @@ Here are some ideas to get you started:
 <img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="TypeScript" height="50" />  
 <img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="Sass" height="50" />  
 <img style="margin: 10px" src="https://gw.alicdn.com/tfs/TB1_W9oE.T1gK0jSZFrXXcNCXXa-116-92.png" alt="BizCharts" height="50" />
+<img style="margin: 10px" src="https://user-images.githubusercontent.com/4060187/61057426-4e5a4600-a3c3-11e9-9114-630743e05814.png" alt="Formik" height="50" />
 </div>
 
 ### Backend
