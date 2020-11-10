@@ -53,6 +53,7 @@ Here are some ideas to get you started:
 
 ### Mobile
 <div style="display:flex;flex-wrap:wrap">
+<img style="margin: 10px" src="https://avatars1.githubusercontent.com/u/1609975?s=200&v=4" alt="Dart" height="50" />  
 <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" height="50" />  
 <img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="React" height="50" />  
 </div>
