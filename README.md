@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning NodeJs and Flutter stuff
+- 🌱 I’m currently learning NodeJs, MongoDB, and Flutter stuff
 - 💬 Ask me about how to use google search
 - 📫 How to reach me: ahwanfebrian.dev@gmail.com
 - ⚡ Fun fact: - Some fact isn't fun
