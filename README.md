@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: - Some fact isn't fun
 
 ![Ahwan's github stats](https://github-readme-stats.vercel.app/api?username=ahwanfebriantoro&show_icons=true&theme=algolia)
-<hr />
 
+##
 ## Recent Technology
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahwanfebriantoro&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 <br />
@@ -59,8 +59,7 @@ Here are some ideas to get you started:
 <img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="React" height="50" />  
 </div>
 
-<hr />
-
+##
 ## Let's Connect
 
 <a href="https://github.com/ahwanfebriantoro" target="_blank">
