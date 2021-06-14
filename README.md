@@ -63,6 +63,7 @@ Here are some ideas to get you started:
 ### Progamming Language
 <img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="JavaScript" height="50" />  
 <img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/javascript/python-original.svg" alt="Python" height="50" />  
+<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/javascript/python-original.svg" alt="Java" height="50" />  
 
 ##
 ## Let's Connect
