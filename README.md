@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m a curious Web Developer.
-- 🌱 I’m currently in ❤️ in learning Python, HTML5 Canvas, C, and Bash stuff
+- 🌱 I’m currently in ❤️ in learning Python, C, and Bash stuff
 - 💬 Ask me about how to use google search
 - 📫 How to reach me: ahwanfebrian.dev@gmail.com
 - ⚡ Fun fact: - [Insert a fact here]
